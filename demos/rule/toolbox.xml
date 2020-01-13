@@ -1,0 +1,30 @@
+<xml xmlns="https://developers.google.com/blockly/xml" id="toolbox" style="display: none">
+  <category name="Features, Variables and Values">
+    <block type="lml_family_market"></block>
+    <block type="lml_family_size"></block>
+    <block type="lml_family_tracking"></block>
+    <block type="lml_var_width"></block>
+    <block type="lml_var_length"></block>
+    <block type="lml_const_number">
+      <field name="NAME">0</field>
+    </block>
+    <block type="lml_var_label"></block>
+    <block type="lml_const_string">
+      <field name="NAME"></field>
+    </block>
+  </category>
+  <category name="Combinations">
+    <block type="lml_if_then"></block>
+    <block type="lml_if_then_else"></block>
+    <block type="lml_opr_and"></block>
+    <block type="lml_opr_or"></block>
+  </category>
+  <category name="Compare">
+    <block type="lml_opr_equal"></block>
+    <block type="lml_opr_different"></block>
+    <block type="lml_opr_lt"></block>
+    <block type="lml_opr_lteq"></block>
+    <block type="lml_opr_gt"></block>
+    <block type="lml_opr_gteq"></block>
+  </category>
+</xml>
